@@ -13,11 +13,9 @@ Photography
 | Huashang newspaper       | - Assisted the news editing team in collecting and organizing news articles from around the world.                          |
 |                          | - Translated foreign news reports and converted them into Chinese articles for publication.                                 |
 |                          | - Participated in news interviews, writing, and editing, covering topics in politics, economy, and culture.                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | World Wide Web           | - Assisted in producing international news programs, responsible for gathering and organizing global news materials.        |
 |                          | - Participated in meetings and discussions to plan program content and style, offering suggestions.                         |
 |                          | - Aided in editing and proofreading news articles, ensuring accuracy and consistency of content.                            |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | People's Daily           | - Assisted in writing editorials and opinion pieces, expressing viewpoints on current affairs and social issues.            |
 |                          | - Engaged in the operation of new media platforms, responsible for content dissemination and reader interaction.            |
 |                          | - Conducted research on the development trends of the Chinese media industry, preparing reportsto the editorial department. |
