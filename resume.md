@@ -1,2 +1,2 @@
-# J124
-Intro to Data Journalism Markdown practice resume.
+# Sylvia Ji
+## I am a sociology student with a minor in journalism.
