@@ -3,8 +3,8 @@
 ![ID photo.JPG](https://github.com/sylviaji0225/J124/blob/main/证件照.JPG )
 ## Skills
 
-> Computer Literacy
-> Language
+> Computer Literacy<br>
+> Language<br>
 > Photography
 
 ## Internship Experience
